@@ -1,5 +1,8 @@
 _repo: Mushroom-and-Toadstools-How-to-Distinguish-Easily-the-Differences-between-Edible-and-Poisonou__60561
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60561-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Worthington George
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '43090'
     url: http://www.gutenberg.org/2009/agents/43090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60561#Mushroom-and-Toadstools-How-to-Distinguish-Easily-the-Differences-between-Edible-and-Poisonou_
 gutenberg_issued: '2019-10-24'
 gutenberg_type: Text
 identifiers:
